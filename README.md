@@ -1,4 +1,4 @@
-# Renew Technical Challenge
+# Quantifying barcode crossover in multiplexed Nanopore runs
 
 ## Overview
 
